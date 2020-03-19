@@ -1,0 +1,15 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo nothing to do at this time
+
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - TravisRalph-Bio.pdf
+    - TravisRalphResume-PublicOnGit.pdf
+    - styles/main.css
+    - images/*
